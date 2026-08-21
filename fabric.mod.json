@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "wish_spear",
+  "version": "${version}",
+  "name": "许愿长枪",
+  "description": "以棺钉为底、血纹为锋，承载祈愿的长枪。手持时聊天输入「我说 斩杀」可触发无上限灵异斩杀。",
+  "authors": ["Custom"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/wish_spear/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.wishspear.WishSpearMod"
+    ]
+  },
+  "depends": {
+    "fabric-api": ">=0.86.1+1.20.1",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}

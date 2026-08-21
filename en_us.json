@@ -1,0 +1,5 @@
+{
+  "item.wish_spear.wish_spear": "Wish Spear",
+  "death.attack.ghostly": "%1$s was consumed by the ghostly power of the Wish Spear",
+  "death.attack.ghostly.player": "%1$s was consumed by the ghostly power of the Wish Spear wielded by %2$s"
+}
